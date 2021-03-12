@@ -1,0 +1,122 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Tom Cohen",
+    "label": "Senior Software Engineer",
+    "image": "",
+    "email": "cohen.tom@gmail.com",
+    "phone": "050-2112041",
+    "location": {
+      "city": "Tel Aviv",
+      "countryCode": "IL",
+      "region": "HaMerkaz"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "tom-cohen-89a28b70",
+        "url": "https://www.linkedin.com/in/tom-cohen-89a28b70"
+      }
+    ]
+  },
+  "work": [ 
+    {
+      "name": "IronSource",
+      "position": "Senior Software Engineer, Search Engine Monetization",
+      "startDate": "2018-03-01",
+      "endDate": "2021-03-01",
+      "summary": "Entrusted on the browser internals of the search engine monetization division we have created browsers, extensions and client based internal components.",
+      "highlights": [
+        "Designed and developed a high-security chromium-based browser",
+        "Developed low-level client BI applications",
+        "Created browser extensions providing multiple user services for BI, control and browser features",
+        "Developed and integrated AdMob mediation networks for hyper-casual mobile games"
+      ]
+    },
+    {
+      "name": "ECI Telecom",
+      "position": "Senior Software Engineer, Linux Embedded Systems",
+      "startDate": "2014-10-01",
+      "endDate": "2018-02-01",
+      "summary": "Being part of the industrial networking switches and high scale embedded systems team we have designed, developed and integrated industry standard, rigid, high-availability networking modules for enterprise use telecom and govermental industries.",
+      "highlights": [
+        "Managed the integrtion and rollout of highly fundemental hardware components",
+        "Designing and developing for hardware/firmware components like FPGA",
+        "Migrated multi-component systems from Linux to VxWorks"
+      ]
+    },
+    {
+      "name": "IDF",
+      "position": "Software Engineer, Center of Encryption and Information Security",
+      "startDate": "2007-09-01",
+      "endDate": "2013-07-01",
+      "summary": "As part of the information security and encryption units I've had the oppertuity to design and develop large-scale high-availability embedded systems and simulators.",
+      "highlights": [
+        "Designed and developed the networking system for the Iron Dome air defense system",
+        "Integrated a large-scale multi-component Iron Dome's fire control system",
+        "Planning and developing highly efficient and secure communication protocols over TCP/IP Networking stack",
+        "Developed tooling and testing automation simulators"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "School of Computer Professions",
+      "area": "Software Engineering",
+      "studyType": "Military Qualified Engineer",
+      "startDate": "2007-09-01",
+      "endDate": "2008-10-01"
+    },
+    {
+      "institution": "The Academic College of Tel-Aviv, Yaffo",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science (BSc)",
+      "startDate": "2009-10-01",
+      "endDate": "2013-07-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Head of C4I Directorate Award",
+      "date": "2011-03-01",
+      "awarder": "Center of Encryption and Information Security, IDF",
+      "summary": "Excellence and Creative Thinking"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Embedded Systems Engineering",
+      "level": "Senior",
+      "keywords": ["C/C++", "Firmware", "Hardware", "Drivers", "Linux", "Operating Systems"]
+    },
+    {
+      "name": "Networks",
+      "level": "Expert",
+      "keywords": ["TCP", "UDP", "IP", "Ethernet", "HTTP", "FTP", "Networking Stacks"]
+    },
+    {
+      "name": "Windows and Browser Internals",
+      "level": "Senior",
+      "keywords": ["WIN32", "V8", "Browser Internals", "Chromium", "Javascript", "Python", "Browser Extensions", "SQL"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Elementary proficiency"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}

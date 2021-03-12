@@ -1,0 +1,14 @@
+{
+  "name": "tom-cohen-resume",
+  "version": "1.0.0",
+  "dependencies": {
+    "jsonresume-theme-stackoverflow-ibic": "^1.4.4",
+    "resume-cli": "^3.0.4"
+  },
+  "scripts": {
+    "export:pdf": "resume export tom-cohen-resume.pdf --theme stackoverflow-ibic",
+    "export:html": "resume export index.html --theme stackoverflow-ibic"
+  },
+  "author": "Tom Cohen (cohen.tom@gmail.com)",
+  "license": "GPT-3"
+}
