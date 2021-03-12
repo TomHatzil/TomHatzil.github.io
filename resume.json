@@ -86,32 +86,32 @@
   "skills": [
     {
       "name": "Embedded Systems Engineering",
-      "level": "Senior",
+      "level": "Master",
       "keywords": ["C/C++", "Firmware", "Hardware", "Drivers", "Linux", "Operating Systems"]
     },
     {
       "name": "Networks",
-      "level": "Expert",
+      "level": "Master",
       "keywords": ["TCP", "UDP", "IP", "Ethernet", "HTTP", "FTP", "Networking Stacks"]
     },
     {
       "name": "Windows and Browser Internals",
-      "level": "Senior",
+      "level": "Advanced",
       "keywords": ["WIN32", "V8", "Browser Internals", "Chromium", "Javascript", "Python", "Browser Extensions", "SQL"]
     }
   ],
   "languages": [
     {
       "language": "Hebrew",
-      "fluency": "Full professional proficiency"
+      "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Full professional proficiency"
+      "fluency": "Native speaker"
     },
     {
       "language": "Spanish",
-      "fluency": "Elementary proficiency"
+      "fluency": "Intermediate proficiency"
     }
   ],
   "meta": {
